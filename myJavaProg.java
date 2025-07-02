@@ -1,5 +1,9 @@
-class myJavaProg.java{
-    public static void main(args[] string ){
-        system.out.println("Hello Jenkins");
+
+public class myJavaProg {
+    public static void main(String[] args) {
+        // Print Hello World
+        System.out.println("Hello, World!");
+
+        
     }
 }
