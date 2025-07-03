@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Substraction : " + result);
 
         Add a1 = new Add();
-        int result2 = a1.Addition(10,4);
+        int result2 = a1.Addition(10,3);
         System.out.println("Addition : " + result);
     }
 }
