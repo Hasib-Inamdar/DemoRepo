@@ -9,6 +9,6 @@ public class Main {
 
         Add a1 = new Add();
         int result2 = a1.Addition(10,3);
-        System.out.println("Addition : " + result);
+        System.out.println("Addition : " + result2);
     }
 }
