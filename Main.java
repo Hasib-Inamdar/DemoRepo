@@ -10,6 +10,6 @@ public class Main {
         Add a1 = new Add();
         int result2 = a1.Addition(10,3);
         System.out.println("Addition : " + result2);
-        System.out.println("After webhook connected");
+        System.out.println("Updated webhook connection");
     }
 }
