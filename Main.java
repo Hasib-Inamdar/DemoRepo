@@ -4,14 +4,11 @@ public class Main {
         System.out.println("Hello, From Main Class");
 
         Sub s1 = new Sub();
-        int result = s1.subtraction(10, 4);
+        int result = s1.subtraction(40, 4);
         System.out.println("Substraction : " + result);
 
         Add a1 = new Add();
-        int result2 = a1.Addition(10,3);
+        int result2 = a1.Addition(10,5);
         System.out.println("Addition : " + result2);
-        System.out.println("2nd Updated webhook connection");
-        // Testing line for webhook to run
-
     }
 }
