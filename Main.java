@@ -14,7 +14,7 @@ public class Main {
         Multi m1 = new Multi();
         int result3 = m1.Multiplication(10,5);
         System.out.println("Multiplication : " + result3);
-
+        // THis is for testing
 
     }
 }
