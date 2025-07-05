@@ -10,5 +10,11 @@ public class Main {
         Add a1 = new Add();
         int result2 = a1.Addition(10,5);
         System.out.println("Addition : " + result2);
+
+        Multi a1 = new Multi();
+        int result2 = a1.Multiplication(10,5);
+        System.out.println("Multiplication : " + result2);
+
+
     }
 }
