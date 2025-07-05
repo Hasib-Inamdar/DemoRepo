@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Addition : " + result2);
 
         Multi m1 = new Multi();
-        int result3 = a1.Multiplication(10,5);
+        int result3 = m1.Multiplication(10,5);
         System.out.println("Multiplication : " + result3);
 
 
