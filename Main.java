@@ -16,5 +16,9 @@ public class Main {
         System.out.println("Multiplication : " + result3);
         // THis is for testing
 
+        Div d1 = new Div();
+        float result4 = d1.Division(103, 2);
+        System.out.println("Divsion : "+result4);
+        
     }
 }
